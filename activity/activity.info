@@ -1,0 +1,7 @@
+[Activity]
+name = Geoquiz 
+bundle_id = com.mediamason.geoquiz
+exec = sugar-activity activity.GeoquizActivity
+icon = activity-geoquiz
+activity_version = 5
+show_launcher = yes
